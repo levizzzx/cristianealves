@@ -356,7 +356,7 @@ function LandingPage() {
             <figure className="reveal group overflow-hidden rounded-3xl shadow-[var(--shadow-soft)]">
               <img
                 src={espacoAsset}
-                alt="Maca do espaço de estética com toalhas limpas, aromatizador e iluminação relaxante"
+                alt="Maca do espaço com toalhas limpas, aromatizador e iluminação relaxante"
                 width={1200}
                 height={1600}
                 loading="lazy"
